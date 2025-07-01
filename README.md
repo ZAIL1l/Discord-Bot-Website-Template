@@ -37,8 +37,8 @@ You are free to remove the "Website Designed By..." line from the footer. Howeve
 Open your terminal:
 
 ```bash
-git clone https://github.com/AdityaLF/discord-bot-website-template.git
-cd discord-bot-website-template
+git clone https://github.com/AdityaLF/Discord-Bot-Website-Template.git
+cd Discord-Bot-Website-Template
 ```
 
 ## ⚙️ Setup Instructions

